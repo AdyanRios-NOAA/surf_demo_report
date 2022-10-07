@@ -6,6 +6,7 @@ book:
   title: "base_template"
   author: "Jane Doe"
   date: "10/7/2022"
+  downloads: [pdf, docx]
   chapters:
     - index.qmd
     - intro.qmd
